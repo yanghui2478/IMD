@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2021-07-11T01:02:40+08:00",
+  "id": "first_codelab",
+  "duration": 10,
+  "title": "第一个codelab",
+  "authors": "kk",
+  "summary": "测试，第一个codelab",
+  "source": "first_codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "android"
+  ],
+  "tags": [
+    "android"
+  ],
+  "feedback": "https://github.com/wkk-knight/",
+  "url": "first_codelab"
+}
